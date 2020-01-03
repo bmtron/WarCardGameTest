@@ -1,0 +1,6 @@
+C:\Users\Brendan\source\repos\WarGameTest1\Engine\bin\Debug\Engine.dll
+C:\Users\Brendan\source\repos\WarGameTest1\Engine\bin\Debug\Engine.pdb
+C:\Users\Brendan\source\repos\WarGameTest1\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\Brendan\source\repos\WarGameTest1\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Brendan\source\repos\WarGameTest1\Engine\obj\Debug\Engine.dll
+C:\Users\Brendan\source\repos\WarGameTest1\Engine\obj\Debug\Engine.pdb
