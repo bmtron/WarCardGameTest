@@ -1,0 +1,13 @@
+C:\Users\Brendan\source\repos\WarGameTest1\WarGameTest1\bin\Release\WarGameTest1.exe.config
+C:\Users\Brendan\source\repos\WarGameTest1\WarGameTest1\bin\Release\WarGameTest1.exe
+C:\Users\Brendan\source\repos\WarGameTest1\WarGameTest1\bin\Release\WarGameTest1.pdb
+C:\Users\Brendan\source\repos\WarGameTest1\WarGameTest1\bin\Release\Engine.dll
+C:\Users\Brendan\source\repos\WarGameTest1\WarGameTest1\bin\Release\Engine.pdb
+C:\Users\Brendan\source\repos\WarGameTest1\WarGameTest1\obj\Release\WarGameTest1.csprojAssemblyReference.cache
+C:\Users\Brendan\source\repos\WarGameTest1\WarGameTest1\obj\Release\WarGameTest1.War.resources
+C:\Users\Brendan\source\repos\WarGameTest1\WarGameTest1\obj\Release\WarGameTest1.Properties.Resources.resources
+C:\Users\Brendan\source\repos\WarGameTest1\WarGameTest1\obj\Release\WarGameTest1.csproj.GenerateResource.cache
+C:\Users\Brendan\source\repos\WarGameTest1\WarGameTest1\obj\Release\WarGameTest1.csproj.CoreCompileInputs.cache
+C:\Users\Brendan\source\repos\WarGameTest1\WarGameTest1\obj\Release\WarGameTest1.csproj.CopyComplete
+C:\Users\Brendan\source\repos\WarGameTest1\WarGameTest1\obj\Release\WarGameTest1.exe
+C:\Users\Brendan\source\repos\WarGameTest1\WarGameTest1\obj\Release\WarGameTest1.pdb
